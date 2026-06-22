@@ -61,7 +61,7 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
   <span>
 		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/beranda.png'  width=400 />
 		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/hubungi kami.png'  width=400 />
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/layanans.png'  width=400 />
+		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/layanan.png'  width=400 />
   </span>
 ## Screenshot Halaman User
 <p align='Left' valign='top'>
