@@ -59,10 +59,9 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 ## Screenshot Halaman Admin
 <p align='Left' valign='top'>
   <span>
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-dashboard.png'  width=400 />
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-category.png'  width=400 />
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-articles.png'  width=400 />
-	    <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-about.png'  width=400 />
+		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/beranda.png'  width=400 />
+		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/hubungi kami.png'  width=400 />
+		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/layanans.png'  width=400 />
   </span>
 ## Screenshot Halaman User
 <p align='Left' valign='top'>
