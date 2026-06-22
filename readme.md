@@ -1,4 +1,4 @@
-<h1 align="center">Website Company Profile Travel Agent</h1>
+<h1 align="center">Website Company Profile MV Wisata </h1>
 
 <div align="center">
   <a href="#">
@@ -21,8 +21,9 @@
 
 
 ## Pengantar
-&emsp; &emsp; Ini adalah website company profile yang saya buat menggunakan Framework Laravel 6 untuk backend-nya dan framework bootstrap 4 untuk tampilannya. <br />
-&emsp; &emsp; Sistem ini berfungsi untuk ajang promosi usaha Agent Travel yang kita punya, dapat juga digunakan untuk menulis blog atau artikel-artikel seputar travelling dan membagikannya di website ini, selain itu kita juga bisa menampilkan destinasi-destinasi wisata yang dapat dikunjungi dengan jasa yang kita punya sehingga pengunjung bisa melihat dan memilih sendiri destinasi yang ingin dikunjungi.<br />
+&emsp; &emsp; ## Pengantar Website Company Profile Travel Agent ini dibuat menggunakan Framework Laravel 6 sebagai backend dan Bootstrap 4 sebagai frontend untuk menghasilkan tampilan yang responsif dan modern.
+        Sistem ini dirancang sebagai media promosi layanan travel serta sarana penyampaian informasi kepada pelanggan. Website ini juga menyediakan fitur artikel atau blog seputar dunia pariwisata, sehingga pengunjung dapat memperoleh informasi menarik mengenai destinasi wisata, tips perjalanan, dan berbagai rekomendasi tempat wisata. Selain itu, pengunjung dapat melihat daftar destinasi yang tersedia dan memilih paket perjalanan sesuai kebutuhan mereka.
+<br />
 	
 	
 ## Fitur
