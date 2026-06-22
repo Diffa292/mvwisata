@@ -21,7 +21,7 @@
 
 
 ## Pengantar
-&emsp; &emsp; ## Pengantar Website Company Profile Travel Agent ini dibuat menggunakan Framework Laravel 6 sebagai backend dan Bootstrap 4 sebagai frontend untuk menghasilkan tampilan yang responsif dan modern.
+&emsp; &emsp; Pengantar Website Company Profile Travel Agent ini dibuat menggunakan Framework Laravel 6 sebagai backend dan Bootstrap 4 sebagai frontend untuk menghasilkan tampilan yang responsif dan modern.
         Sistem ini dirancang sebagai media promosi layanan travel serta sarana penyampaian informasi kepada pelanggan. Website ini juga menyediakan fitur artikel atau blog seputar dunia pariwisata, sehingga pengunjung dapat memperoleh informasi menarik mengenai destinasi wisata, tips perjalanan, dan berbagai rekomendasi tempat wisata. Selain itu, pengunjung dapat melihat daftar destinasi yang tersedia dan memilih paket perjalanan sesuai kebutuhan mereka.
 <br />
 	
