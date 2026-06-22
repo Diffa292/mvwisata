@@ -58,22 +58,18 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 
 ## Screenshot Halaman Admin
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/beranda.png" width="400"/>
-  
-  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/hubungi%20kami.png" width="400"/>
-  
-  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/layanan.png" width="400"/>
-  
-  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/admin-about.png" width="400"/>
+  <img src="./ScreenShot/beranda.png" width="400"/>
+  <img src="./ScreenShot/hubungi%20kami.png" width="400"/>
+  <img src="./ScreenShot/layanan.png" width="400"/>
 </p>
+
+<br>
 
 ## Screenshot Halaman User
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/beranda.png" width="400"/>
-  
-  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/hubungi%20kami.png" width="400"/>
+  <img src="./ScreenShot/beranda.png" width="400"/>
+  <img src="./ScreenShot/hubungi%20kami.png" width="400"/>
 </p>
-
 <br />
 <br />
 
