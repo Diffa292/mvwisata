@@ -59,6 +59,7 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 ## Screenshot Halaman Admin
 <p align='Left' valign='top'>
   <span>
+       <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/user-home.jpg'  width=400 />
 		/>
 		
 	    
