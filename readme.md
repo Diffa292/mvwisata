@@ -1,4 +1,4 @@
-<h1 align="center">Website Company Profile Travel Agent</h1>
+<img width="959" height="477" alt="image" src="https://github.com/user-attachments/assets/36e34ad3-6bba-4681-84a6-d7c46e6adcd2" /><h1 align="center">Website Company Profile Travel Agent</h1>
 
 <div align="center">
   <a href="#">
@@ -60,9 +60,9 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 <p align='Left' valign='top'>
   <span>
 		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-dashboard.png'  width=400 />
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-category.png'  width=400 />
-		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-articles.png'  width=400 />
-	    <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/admin-about.png'  width=400 />
+		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/beranda.png'  width=400 />
+		<img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/layanan.png'  width=400 />
+	    <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/hubungi kami.png'  width=400 />
   </span>
 </p>
 
