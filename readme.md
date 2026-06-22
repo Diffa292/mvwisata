@@ -57,26 +57,22 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 
 
 ## Screenshot Halaman Admin
-<p align='Left' valign='top'>
-  <span>
-		<img src='hhttps://github.com/Diffa292/mvwisata.git/Company-Profile-Laravel/blob/master/ScreenShot/beranda.png'  width=400 />
-		<img src='https://github.com/Diffa292/mvwisata.git/Company-Profile-Laravel/blob/master/ScreenShot/hubungi kami.png'  width=400 />
-		<img src='hhttps://github.com/Diffa292/mvwisata.git/Company-Profile-Laravel/blob/master/ScreenShot/layanan.png'  width=400 />
-	    <img src='https://github.com/Diffa292/mvwisata.git/Company-Profile-Laravel/blob/master/ScreenShot/admin-about.png'  width=400 />
-  </span>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/beranda.png" width="400"/>
+  
+  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/hubungi%20kami.png" width="400"/>
+  
+  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/layanan.png" width="400"/>
+  
+  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/admin-about.png" width="400"/>
 </p>
-
-<br />
-<br />
 
 ## Screenshot Halaman User
-<p align='Left' valign='top'>
-    <span>
-        <img src='https://github.com/Diffa292/mvwisata.git/Company-Profile-Laravel/blob/master/ScreenShot/beranda.png'  width=400 />
-        <img src='https://github.com/Diffa292/mvwisata.git/Company-Profile-Laravel/blob/master/ScreenShot/hubungi kami.png'  width=400 />
-    </span>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/beranda.png" width="400"/>
+  
+  <img src="https://raw.githubusercontent.com/Diffa292/mvwisata/master/ScreenShot/hubungi%20kami.png" width="400"/>
 </p>
-
 <br />
 <br />
 
