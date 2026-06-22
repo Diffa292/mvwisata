@@ -21,8 +21,9 @@
 
 
 ## Pengantar
-&emsp; &emsp; Ini adalah website company profile yang saya buat menggunakan Framework Laravel 6 untuk backend-nya dan framework bootstrap 4 untuk tampilannya. <br />
-&emsp; &emsp; Sistem ini berfungsi untuk ajang promosi usaha Agent Travel yang kita punya, dapat juga digunakan untuk menulis blog atau artikel-artikel seputar travelling dan membagikannya di website ini, selain itu kita juga bisa menampilkan destinasi-destinasi wisata yang dapat dikunjungi dengan jasa yang kita punya sehingga pengunjung bisa melihat dan memilih sendiri destinasi yang ingin dikunjungi.<br />
+&emsp; &emsp; Website company profile ini merupakan aplikasi berbasis web yang dibangun menggunakan Framework Laravel 6 dan Bootstrap 4. Aplikasi ini berfungsi sebagai media informasi dan promosi bagi perusahaan yang bergerak di bidang jasa perjalanan wisata.
+Melalui website ini, perusahaan dapat menampilkan profil, layanan, paket wisata, serta berbagai destinasi yang tersedia. Selain itu, sistem juga menyediakan fitur publikasi artikel dan berita seputar dunia pariwisata guna memberikan informasi yang bermanfaat kepada pengunjung. Dengan adanya website ini, diharapkan penyampaian informasi kepada pelanggan menjadi lebih efektif, profesional, dan mudah diakses kapan saja.
+<br />
 	
 	
 ## Fitur
